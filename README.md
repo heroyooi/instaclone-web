@@ -14,6 +14,10 @@ npm install --save @fortawesome/free-brands-svg-icons
   npm install --save @fortawesome/free-regular-svg-icons
 ```
 
+## 8.3 Router Setup part One
+
+- react-router-dom의 Switch를 사용하는 이유 => 한 번에 하나의 route만 render하고 싶기 때문
+
 ## 참고 링크
 
-- [듣던 강좌 #8.3](https://nomadcoders.co/instaclone/lectures/2483)
+- [듣던 강좌 #8.7](https://nomadcoders.co/instaclone/lectures/2485)
