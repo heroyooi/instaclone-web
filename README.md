@@ -18,6 +18,12 @@ npm install --save @fortawesome/free-brands-svg-icons
 
 - react-router-dom의 Switch를 사용하는 이유 => 한 번에 하나의 route만 render하고 싶기 때문
 
+## 8.9 GlobalStyles on Styled Components
+
+```command
+npm i styled-reset
+```
+
 ## 참고 링크
 
-- [듣던 강좌 #8.7](https://nomadcoders.co/instaclone/lectures/2485)
+- [듣던 강좌 #10.4](https://nomadcoders.co/instaclone/lectures/2498)
