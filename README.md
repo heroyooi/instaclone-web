@@ -26,4 +26,4 @@ npm i styled-reset
 
 ## 참고 링크
 
-- [듣던 강좌 #10.4](https://nomadcoders.co/instaclone/lectures/2498)
+- [듣던 강좌 #10.5](https://nomadcoders.co/instaclone/lectures/2489)
