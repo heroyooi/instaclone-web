@@ -193,6 +193,24 @@ function Login() {
 }
 ```
 
+## 10.13 Redirecting Users
+
+- 회원가입 성공 시 페이지를 이동하며 알림을 같이 보내는 예제
+
+```js
+function SignUp() {
+  const history = useHistory();
+  const onCompleted = (data) => {
+    history.push(routes.home, { message: "Account created. Please log in." });
+  };
+}
+
+function Login() {
+  const location = useLocation();
+  return <p>{location?.state?.message}</p>;
+}
+```
+
 ## 참고 링크
 
-- [듣던 강좌 #10.13](https://nomadcoders.co/instaclone/lectures/2494)
+- [듣던 강좌 #11.0](https://nomadcoders.co/instaclone/lectures/2514)
