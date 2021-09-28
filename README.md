@@ -195,4 +195,4 @@ function Login() {
 
 ## 참고 링크
 
-- [듣던 강좌 #10.11](https://nomadcoders.co/instaclone/lectures/2500)
+- [듣던 강좌 #10.12](https://nomadcoders.co/instaclone/lectures/2490)
