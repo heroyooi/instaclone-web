@@ -213,4 +213,4 @@ function Login() {
 
 ## 참고 링크
 
-- [듣던 강좌 #11.0](https://nomadcoders.co/instaclone/lectures/2514)
+- [듣던 강좌 #11.3](https://nomadcoders.co/instaclone/lectures/2506)
